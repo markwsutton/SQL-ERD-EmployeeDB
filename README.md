@@ -7,4 +7,5 @@ All files are located in the directory EmployeeSQL<br/>
 Files:<br/>
 Utilized https://app.quickdatabasediagrams.com/ to create the ERD diagram: Employee-ERD.png<br/>
 Schemas: EmployeeSchemas.sql<br/>
-Queries: EmployeeQueries.sql
+Queries: EmployeeQueries.sql<br/>
+The directory outputs contains screen captures of the results of the queries.
