@@ -1,7 +1,7 @@
 
-## Employee data analysis using SQL
+## Employee Data Analysis using SQL
 
-Utilized pg admin/postrgres sql to analyze the database employeesSQL_DB<br/>
+Utilized pgAdmin and PostrgreSQL to analyze the database employeesSQL_DB<br/>
 All files are located in the directory EmployeeSQL<br/>
 <br/>
 Files:<br/>
@@ -13,3 +13,11 @@ The directory outputs contains screen captures of the results of the queries.
 ERD:
 
 ![Image](https://github.com/markwsutton/sql-challenge/blob/master/EmployeeSQL/Employee-ERD.png)
+
+SCHEMAS (sample: first three):
+
+![Image](https://github.com/markwsutton/SQL-ERD-EmployeeDB/blob/master/EmployeeSQL/outputs/EmployeeSchemas.png)
+
+Query 1 syntax and result in pgAdmin:
+
+![Image](https://github.com/markwsutton/SQL-ERD-EmployeeDB/blob/master/EmployeeSQL/outputs/Query1.png)
