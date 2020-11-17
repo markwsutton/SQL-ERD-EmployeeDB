@@ -9,3 +9,7 @@ Utilized https://app.quickdatabasediagrams.com/ to create the ERD diagram: Emplo
 Schemas: EmployeeSchemas.sql<br/>
 Queries: EmployeeQueries.sql<br/>
 The directory outputs contains screen captures of the results of the queries.
+
+ERD:
+
+![Image](https://github.com/markwsutton/sql-challenge/blob/master/EmployeeSQL/Employee-ERD.png)
