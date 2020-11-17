@@ -1,5 +1,5 @@
-# sql-challenge
-## Employee data analysis
+
+## Employee data analysis using SQL
 
 Utilized pg admin/postrgres sql to analyze the database employeesSQL_DB<br/>
 All files are located in the directory EmployeeSQL<br/>
